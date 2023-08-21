@@ -63,9 +63,9 @@ vim Dockerfile
 
 
 
-## Step 4:-Initialise 
+## Step 4:-n this step, you need to follow the command that is provided by the github repository.
 
-<p>In this step, you need to follow the command that is provided by the github repository.
+
 
 The git init command is used to initialize a new Git repository in a directory. When you run git init in a directory, it sets up the necessary files and directories that Git uses to manage version control for your project.</p>
 
@@ -102,4 +102,18 @@ git remote add origin https://github.com/Pinki-shukla/docsify001.git
 
 ```
 git push -u origin main
+```
+
+## Update and Change
+
+<p>whenever you want to update any thing in your document again follow these commands given below</p>
+
+```
+git remote add origin https://github.com/Pinki-shukla/docsify001.git
+```
+```
+git branch -M main 
+```
+```
+git push -u orgin main
 ```
