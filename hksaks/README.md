@@ -181,19 +181,11 @@ git remote add origin https://github.com/Pinki-shukla/docsify001.git
 git push -u origin main
 ```
 
-## Update and Change
 
-<p>whenever you want to update any thing in your document again follow these commands given below</p>
 
-```
-git remote add origin https://github.com/Pinki-shukla/docsify001.git
-```
-```
-git branch -M main 
-```
-```
-git push -u orgin main
-```
+
+
+
 
 
 ## Process has been done.
