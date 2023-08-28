@@ -117,7 +117,7 @@ podman images
 
 ## Step 1:-For making a repository, click on "New repository":
 
-![](repo.png)
+![](repo001.png)
 
 ## Step 2:-Enter your repository name and give permission to the public.
 
