@@ -157,6 +157,7 @@ git init
 ![](git%20init.png)
 
 <p> When you make changes to your files, such as editing or adding new content to README.md, you need to use git add to inform Git that you want to include these changes in the next commit</p>
+
 ```
 git add README.md
 ```
