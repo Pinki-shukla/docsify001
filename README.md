@@ -116,7 +116,7 @@ podman images
 ## Step 7:-Output of the Preview :
 <p>Run docsify on localhost </p>
 
-![](previewlocalhost%203000.png)
+![](000000000000000000000.png)
 
 
 # <u>Github </u>
