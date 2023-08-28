@@ -116,7 +116,7 @@ podman images
 ## Step 7:-Output of the Preview :
 <p>Run docsify on localhost </p>
 
-![](000000000000000000000.png)
+
 
 
 # <u>Github </u>
@@ -127,7 +127,7 @@ podman images
 
 ## Step 2:-Enter your repository name and give permission to the public.
 
-![](new%20repo.png)
+![](000000000000000000000.png)
 
 ## Step 3:-Clone the git repository:
 ```
