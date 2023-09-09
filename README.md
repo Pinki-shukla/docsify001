@@ -1,4 +1,25 @@
-<center> <u> <h1 style="font-size: 50px;">Setup Docsify with Podman and Integrate with Github</center></h1> </u> </center>
+
+
+
+
+
+
+<center> <u> <h1 style="font-size: 50px;">Setup Docsify with Podman and Integrate with Github</center></h1> </u> </center><br>
+
+## Linux Distribution
+
+* OS Name : Ubuntu 20.04.6 LTS
+
+## System Configuration
+
+* RAM : 5.6 GiB
+* CPU : 12
+* STORAGE     : 512.1 GB
+  
+
+## Prerequisites tools
+* Podman
+* Github
 
 
 ## Docsify
@@ -11,6 +32,10 @@
 ## Podman
 
 Podman is an open-source container management tool that provides a way to manage containers on Linux systems. 
+
+## GitHub
+
+GitHub is a platform and cloud-based service for software development and version control using Git, allowing developers to store and manage their code. 
 
 
 ## Step 1:- Install Podman:
@@ -110,20 +135,20 @@ podman images
 ## Step 7:-Output of the Preview :
 <p>Run docsify on localhost </p>
 
-
+![](previewlocalhost%203000.png)
 
 
 # <u>Github </u>
 
-## Step 1:-For making a repository, click on "New repository":
+## Step 1:-For making a new repository, click on "+" icon:
 
-![](repo001.png)
+![](repo001.png))
 
 ## Step 2:-Enter your repository name and give permission to the public.
 
 ![](000000000000000000000.png)
 
-## Step 3:-Clone the git repository:
+## Step 3:- Clone the git repository
 ```
 git clone https://github.com/username/repository.git
 ```
@@ -133,8 +158,8 @@ git clone https://github.com/username/repository.git
 
 ![](8.png)
 
-
 ## Step-4 In this step, you need to follow the command that is provided by the github repository:
+
 <p>Follow each commands to copy and paste.</p>
 
 ![](github%20command.png)
@@ -154,7 +179,9 @@ git init
 
 ```
 git add README.md
+
 ```
+
 <p>The command git commit -m "first commit" is used to save or record changes to the repository, describing the changes you've made.</p>
 
 ```
@@ -167,6 +194,7 @@ git commit -m "first commit"
 ```
 git branch -M main
 ```
+
 <P>The git remote add origin command is used to connect your local Git repository with a remote repository on a platform like GitHub. The origin in this command is typically a short name used to refer to the remote repository.</P>
 
 ```
